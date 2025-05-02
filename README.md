@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2025-05-02 110920](https://github.com/user-attachments/assets/9de224c8-ee81-4bed-8c23-a5861cfc298b)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -31,7 +31,6 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
 
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
@@ -46,9 +45,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2025-05-02 110838](https://github.com/user-attachments/assets/89cbcac7-4541-4aa0-81f7-77b0f6914f69)
+![Screenshot 2025-05-02 110920](https://github.com/user-attachments/assets/9253b6ac-6422-458b-917c-1fbb774ffc5f)
+![Screenshot 2025-05-02 110958](https://github.com/user-attachments/assets/a3942a66-a0b3-4a5f-bf99-f31dfd512137)
 
-### Name:
-### Register Number:
+
+
+### Name: Ahamed Sahul Hameed M
+### Register Number: 212224040016
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
